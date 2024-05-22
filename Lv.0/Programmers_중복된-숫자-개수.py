@@ -15,7 +15,7 @@ def solution(array, n):
     return array.count(n)
 
 # 다른 사람의 풀이 2
-# [expression for item in iterable if condition] 리스트 컴프리헨션
+# [expression for item in iterable if condition] -> 리스트 컴프리헨션
 # expression: 각 요소에 대한 계산식이나 표현식
 # item: 이터러블(iterable)에서 가져온 각 요소
 # iterable: 순회 가능한 객체입니다. (예: 리스트, 튜플, 집합, 문자열 등)
